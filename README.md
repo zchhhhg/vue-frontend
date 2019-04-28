@@ -1,21 +1,5 @@
 # vue-frontend
 
-## Project setup
-```
-npm install
-```
+### update 2019.04.28
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+与 springboot-end 整合，提供前端互交支持
